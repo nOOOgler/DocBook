@@ -1,0 +1,16 @@
+# Node modules
+admin/node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment files
+admin/.env
+backend/.env
+frontend/.env
+
+# Logs
+*.log
+
+# Build files
+# admin/build/
+# frontend/build/
